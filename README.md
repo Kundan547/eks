@@ -1,2 +1,1 @@
-# eks
-eks-demo
+# Eks-Demo
